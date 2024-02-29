@@ -13,9 +13,15 @@ Make sure you update the filepath every where in the program where file is being
 Your Txt File should look like this.
 
 Student	Classes	Presents	Absents
+
 Usman	40	37	3
+
 Hamza	40	38	2
+
 Murtuza	40	36	4
+
 Eeman	40	37	3
+
 Haris	4	1	3
+
 Maryam	31	29	2
